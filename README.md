@@ -1,4 +1,4 @@
-### Olá eu sou Thyago Hyvo 👋
+### Olá eu sou Thyago Hyvo, Estudande do curso de Sistemas de Informação, Dev em progresso e com muita vontade de aprender. 👋⚡
 
 < div >
   <a href="https://beacons.ai/thg1">
