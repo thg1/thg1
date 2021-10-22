@@ -1,8 +1,10 @@
 ### Olá eu sou Thyago Hyvo, Estudante de Sistemas de Informação, Apaixonado por tudo que envolve o universo de tecnologia, gosto de gerar novas ideias e desenvolver soluções viáveis. .🎓, Dev em progresso e com muita vontade de aprender. 👋⚡
 
-
-  <a href="https://beacons.ai/thg1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thg1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/thg1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thg1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thg1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <div style="display: inline_block"><br>
@@ -17,4 +19,5 @@
   
   <img align="center" alt="TH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+  
 </div>
